@@ -1,0 +1,37 @@
+{
+    "Name": "µÿ√Ê",
+    "Guards": [
+        {
+            "No": "0001",
+            "IsExit": false,
+            "Primary": {
+                "IP": "192.168.1.203",
+                "ScreenType": 0,
+                "ScreenIP": null
+            },
+            "Secondaries": [
+                {
+                    "IP": "192.168.1.205",
+                    "ScreenType": 0,
+                    "ScreenIP": null
+                }
+            ]
+        },
+        {
+            "No": "0002",
+            "IsExit": true,
+            "Primary": {
+                "IP": "192.168.1.204",
+                "ScreenType": 0,
+                "ScreenIP": null
+            },
+            "Secondaries": [
+                {
+                    "IP": "192.168.1.206",
+                    "ScreenType": 0,
+                    "ScreenIP": null
+                }
+            ]
+        }
+    ]
+}

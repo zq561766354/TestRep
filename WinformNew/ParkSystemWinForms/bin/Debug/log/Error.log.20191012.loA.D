@@ -1,0 +1,43 @@
+2019-10-12 10:05:17,783 [1] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.exe,appname:ParkSystemWinForms.exe
+2019-10-12 10:28:18,815 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:28:48,778 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:29:18,777 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:29:48,775 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:30:18,777 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:30:48,772 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:31:18,777 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:31:48,775 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:32:18,772 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:32:48,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:33:18,776 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:33:48,777 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:34:18,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:34:48,777 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:35:18,772 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:35:48,776 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:36:18,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:36:48,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:37:18,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:37:48,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:38:18,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:38:48,776 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:39:18,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:39:48,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:40:18,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:40:48,778 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:41:18,783 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:41:48,778 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:42:18,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:42:48,780 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:43:18,779 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:43:48,780 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:44:18,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:44:48,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:45:18,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:45:48,775 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:46:18,774 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:46:48,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 10:47:18,775 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 11:05:48,773 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：请求被中止: 操作超时。
+2019-10-12 11:06:18,776 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：操作超时
+2019-10-12 11:18:18,760 [1] ERROR PsFormLog - ParkSystemDAL.NetworkHead方法 查询网络状态：请求被中止: 操作超时。

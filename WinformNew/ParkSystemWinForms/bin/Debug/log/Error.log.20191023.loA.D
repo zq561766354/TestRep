@@ -1,0 +1,9 @@
+2019-10-23 17:39:16,886 [1] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.exe,appname:ParkSystemWinForms.exe
+2019-10-23 20:34:18,204 [8] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:38:41,162 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:39:35,212 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:42:45,246 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:43:20,324 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:44:17,875 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:45:17,975 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
+2019-10-23 20:49:29,925 [9] ERROR PsFormLog - 设置成开机启动成功,apppath:D:\VS项目\WinformNew\ParkSystemWinForms\bin\Debug\ParkSystemWinForms.EXE,appname:ParkSystemWinForms.EXE
